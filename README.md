@@ -1,2 +1,2 @@
-# deploy_model.github.io
+# Home
 Minimal JS interface to an image classifer
