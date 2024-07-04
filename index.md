@@ -5,6 +5,4 @@ layout: page
 
 # Simple JS Image Classifiers
 
-Banana Image Classifier
-
-- [predict_image](https://github.com/nuvic/predict_image) h/t nuvic
+- [Banana Image Classifier](https://huggingface.co/spaces/PanagiotaMoraiti/deploy_model)
